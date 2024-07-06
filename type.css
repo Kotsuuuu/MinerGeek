@@ -1,4 +1,4 @@
-/* Smartphones (600px para baixo) */ @media only screen and (max-width: 1338px) {
+/* Smartphones (600px para baixo) */ @media only screen and (max-width: 450px) {
   
  .menu{
     display: none;
@@ -42,7 +42,7 @@
   
 }
 
-/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */ @media only screen and (max-width: 1200px) {
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */ @media only screen and (min-width: 500px) {
   
   .bt{
     display: none;
